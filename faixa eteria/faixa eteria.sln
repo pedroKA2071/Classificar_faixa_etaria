@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faixa eteria", "faixa eteria\faixa eteria.csproj", "{ECEE441D-89AA-4B9E-9873-282C9A9C52BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEE441D-89AA-4B9E-9873-282C9A9C52BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEE441D-89AA-4B9E-9873-282C9A9C52BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEE441D-89AA-4B9E-9873-282C9A9C52BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEE441D-89AA-4B9E-9873-282C9A9C52BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2A097E-1C84-4EE2-9F67-877BFD618DD7}
+	EndGlobalSection
+EndGlobal
